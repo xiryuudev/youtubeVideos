@@ -1,13 +1,13 @@
 # YouTube Projects Repository
 
-Repositori ini berisi seluruh kode sumber dari proyek-proyek yang ada di saluran YouTube **Xiryuu Dev**. Setiap proyek disimpan pada *branch* khusus untuk mempermudah navigasi dan pengelolaan kode.
+This repository contains the source code for projects featured on the YouTube channel **Xiryuu Dev**. Each project is stored on its own branch to simplify navigation and code management.
 
 ---
 
-## Daftar Proyek
+## Project List
 
-Berikut adalah daftar proyek yang tersedia beserta *branch* masing-masing:
+Below is a list of available projects and their branches:
 
-| Nama Proyek | Deskripsi Singkat | Branch / Tautan |
+| Project Name | Brief Description | Branch / Link |
 | --- | --- | --- |
-| **WhatsApp Bot** | Sumber kode pembuatan WhatsApp Bot berbasis Node.js | [Lihat Branch `whatsapp-bot](https://github.com/xiryuudev/youtubeVideos/tree/whatsapp-bot)` |
+| **WhatsApp Bot** | Source code for creating a Node.js-based WhatsApp bot | [View Branch `whatsapp-bot`](https://github.com/xiryuudev/youtubeVideos/tree/whatsapp-bot) |
