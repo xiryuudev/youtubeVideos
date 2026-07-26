@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "baileys": "^7.0.0-rc13",
+    "pino": "^10.3.1"
+  }
+}
